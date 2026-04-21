@@ -40,6 +40,8 @@ It highlights the organization, skills offered, benefits, and contact section in
 
 ---
 
+Deployes link:- https://the-skill-guru-foundation-landing-pag.netlify.app/
+
 ## 📂 Project Structure
 
 ```bash
